@@ -1,3 +1,3 @@
 # AskMe
 
-A Artificial Intelligence trained chatbot
+An Artificial Intelligence trained chatbot
